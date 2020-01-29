@@ -60,3 +60,6 @@ cd client
 npm start
 ```
 ( It will start the web page )
+
+
+![Video](https://gifs.com/gif/video-4QwXJ1)
