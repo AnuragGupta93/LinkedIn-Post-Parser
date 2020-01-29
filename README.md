@@ -63,5 +63,6 @@ npm start
 
 5. Search for required skills in the search box.
 
+WORKING DEMO:
 
-(![](https://github.com/AnuragGupta93/LinkedIn-Post-Parser/blob/master/Screencast%20from%2029-01-20%2006:12:04%20PM%20IST.gif))
+![](https://github.com/AnuragGupta93/LinkedIn-Post-Parser/blob/master/Screencast%20from%2029-01-20%2006:12:04%20PM%20IST.gif))
