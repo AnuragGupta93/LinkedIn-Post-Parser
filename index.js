@@ -7,7 +7,7 @@ const fs = require('fs');
   });
   const page = await browser.newPage();
   const url =
-    'https://www.linkedin.com/posts/nishantjain131_startupjobs-jobs-hiring-activity-6623233610138951680-Yt1k';
+    'https://www.linkedin.com/posts/nishantjain131_startupjobs-jobs-hiring-activity-6623233610138951680-Yt1k'; // Change this url
 
   await page.goto(url);
 
