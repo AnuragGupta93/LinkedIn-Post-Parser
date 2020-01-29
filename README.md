@@ -61,5 +61,7 @@ npm start
 ```
 ( It will start the web page )
 
+5. Search for required skills in the search box.
+
 
 ![Video](https://gifs.com/gif/video-4QwXJ1)
