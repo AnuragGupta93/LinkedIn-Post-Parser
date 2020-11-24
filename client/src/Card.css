@@ -18,12 +18,14 @@ body {
   color: #32325d;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-rendering: optimizeLegibility;
+	text-rendering: optimizeLegibility;
+	min-height: 100vh;
   margin: 0;
 }
 @media (min-width: 40rem) {
   body {
-    padding: 5rem;
+		padding: 5rem;
+		min-height: 100vh;
   }
 }
 
